@@ -9,7 +9,7 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 [Apresentação Iphone](https://www.youtube.com/watch?v=9ou608QQRq8)
 
 ## Sobre:
-Realizei a criação das classes Iphone e interfaces Ipode (para músicas), Telefone para as funções principais, Contatos para organizar os mesmos, e Safari para representar as funções de navegação.
+Realizei a criação das classes Iphone e interfaces Ipod (para músicas), Telefone para as funções principais, Contatos para organizar os mesmos, e Safari para representar as funções de navegação.
 
 ## 💹 UML
 
